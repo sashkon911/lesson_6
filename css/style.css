@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+.title{
+   font-family: Lato;
+   font-weight: 900;
+   font-size: 46px;
+   margin-left: 2px;
+   max-width: 810px;
+}
+.title-one{
+   margin-bottom: 40px;
+   line-height: 1.2;
+}
+.title-two{
+   margin-bottom: 40px;
+   max-width: 100%;
+}
+.text{
+   font-family: Lato;
+   max-width: 810px;
+   line-height: 1.5;
+}
+.text-h{
+   font-weight: 700;
+   font-size: 20px;
+   margin-left: 18px;
+   margin-bottom: 40px;
+}
+.text-one{
+   font-weight: 700;
+   font-size: 20px;
+   margin-left: 58px;
+   margin-bottom: 40px;
+}
+.text-two{
+   font-weight: 400;
+   font-size: 16px;
+   margin-bottom: 40px;
+}
+.text-three{
+   font-weight: 400;
+   font-size: 16px;
+   margin-left: 32px;
+   margin-bottom: 40px;
+}
+.text-fore{
+   font-weight: 400;
+   font-size: 16px;
+   margin-bottom: 40px;
+}
+.lesson{
+   border: 3px dotted gold;
+   margin-bottom: 40px;
+   opacity: 0.3;
+}
+.lesson-one{
+border: 5px solid green;
+   border-radius: 50%;
+   margin-bottom: 40px;
+   overflow: auto;
+}
+.lesson-two{
+   overflow: auto;
+   border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	background-color: #794f45;
+   margin-bottom: 40px;
+}
+.lesson-three{
+   background-color:green;
+   max-width: 200px;
+   max-height: 200px;
+   overflow: auto;
+   margin-bottom: 40px;
+}
+.lesson-fore{
+   border-top: 3px dashed red;
+	border-right: 4px dotted blue;
+	border-bottom: 5px solid green;
+	border-left: 6px double yellow;
+   margin-bottom: 50px;
+}
